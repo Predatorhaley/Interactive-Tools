@@ -1,0 +1,28 @@
+{
+  "wallpapers": [
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/Predatorhaley/Union-letters/master/Unsplash%2001.jpg",
+      "name": "Wall 01",
+      "thumbnail": "https://raw.githubusercontent.com/Predatorhaley/Union-letters/master/Unsplash%2001(1).jpg"
+    }, 
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/Predatorhaley/Union-letters/master/Unsplash%2002.jpg",
+      "name": "Wall 02",
+      "thumbnail": "https://raw.githubusercontent.com/Predatorhaley/Union-letters/master/Unsplash%2002(1).jpg"
+    }, 
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/Predatorhaley/Union-letters/master/Unsplash%2003.jpg",
+      "name": "Wall 03",
+      "thumbnail": "https://raw.githubusercontent.com/Predatorhaley/Union-letters/master/Unsplash%2003(1).jpg"
+    },
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/Predatorhaley/Union-letters/master/Unsplash%2004.jpg",
+      "name": "Wall 04",
+      "thumbnail": "https://raw.githubusercontent.com/Predatorhaley/Union-letters/master/Unsplash%2004(1).jpg"
+    }
+  ]
+}
